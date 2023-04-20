@@ -32,8 +32,6 @@
 0daydown.com
 0p.de
 1-edge-chat.facebook.com
-1.0.0.1
-1.1.1.1
 1.arch.pool.ntp.org
 1.asia.pool.ntp.org
 1.bp.blogspot.com
@@ -59,14 +57,12 @@
 100.naver.com
 10046.mi.com
 100percentfedup.com
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 110415.libdd.com
 123-reg.co.uk
 123greetings.com
 123movies.to
 1337x.to
 140cc.v.fwmrm.net
-151.101.38.49
 163.com
 1688.com
 17track.net
@@ -81,7 +77,6 @@
 1fichier.com
 1gr.cz
 1hosts.cf
-1p.edge2.salesforce.com
 1und1.de
 1url.com
 1weather.onelouder.com
@@ -113,7 +108,6 @@
 2.ua.pool.ntp.org
 2.ubuntu.pool.ntp.org
 2.us.pool.ntp.org
-206.189.252.21
 21stcenturywire.com
 2a.me
 2ch.net
@@ -199,7 +193,6 @@ a.ooyala.com
 a.shifen.com
 a.stat.xiaomi.com
 a.tiles.mapbox.com
-a.top4top.net
 a.union.mi.com
 a1.mzstatic.com
 a1.sndcdn.com
@@ -420,6 +413,7 @@ ak-media.soundcloud.com
 ak-publisher-assets.spot.im
 ak.c.ooyala.com
 akadns.net
+akamai-san24.exacttarget.com.edgekey.net
 akamai.net
 akamaiedge.net
 akamaihd.net
@@ -1085,7 +1079,6 @@ anon.to
 anonymouse.org
 answers.com
 answers.microsoft.com
-answers.yahoo.com
 ant.design
 antfin.com
 anurl.com
@@ -1280,7 +1273,6 @@ api.rikka.app
 api.rlje.net
 api.roar.media
 api.rokutime.com
-api.salesforce.com
 api.samsungcloud.com
 api.samsungknowledge.com
 api.samsungmembers.com
@@ -1451,7 +1443,6 @@ apps.entrance.sonymobile.com
 apps.facebook.com
 apps.foxnews.com
 apps.ign.com
-apps.microsoft.com
 apps.rakuten.co.jp
 apps.samsung.com
 apps.samsung.com.cdngc.net
@@ -2068,7 +2059,6 @@ c.s-microsoft.com
 c.storage.googleapis.com
 c.t-online.de
 c.trello.com
-c.youtube.com
 c00.adobe.com
 c1.g.mi.com
 c1.microsoft.com
@@ -2393,7 +2383,6 @@ chan.sankakucomplex.com
 change.org
 changelly.com
 changelogs.ubuntu.com
-channel.facebook.com
 channel9.msdn.com
 channelusa.samsung.com
 chaoxing.com
@@ -2456,7 +2445,6 @@ chat-gateway250-prod.chat.snapchat.com
 chat-gateway288-prod.chat.snapchat.com
 chat-gateway393-prod.chat.snapchat.com
 chat-gateway397-prod.chat.snapchat.com
-chat.facebook.com
 chat.minergate.com
 chatapi.viber.com
 chatdepot.twitch.tv
@@ -2559,7 +2547,6 @@ clips.twitch.tv
 cliqz.com
 clk.ink
 clkmg.com
-cloud.google.com
 cloud.gsdk.proximabeta.com
 cloud.huawei.com
 cloud.lg.com
@@ -2728,7 +2715,6 @@ consumer.huawei.com
 contact-cc.line.me
 contact.line.me
 contactapi.micloud.xiaomi.net
-contacts.msn.com
 contactus.netflix.com
 contactus.samsung.com
 content-storage-upload.googleapis.com
@@ -2892,7 +2878,6 @@ d.xiaomi.com
 d.yimg.com
 d1z2jf7jlzjs58.cloudfront.net
 d2.naver.com
-d2c87l0yth4zbw.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2cmedia.ca
 d2gatte9o95jao.cloudfront.net
@@ -3035,12 +3020,10 @@ developer.samsung.com
 developer.sonymobile.com
 developer.soundcloud.com
 developer.spotify.com
-developer.twitter.com
 developer.vimeo.com
 developer.xiaomi.com
 developers.cloudflare.com
 developers.coinbase.com
-developers.facebook.com
 developers.google.com
 developers.line.me
 developers.medium.com
@@ -3115,7 +3098,6 @@ dji.com
 djix.com
 dl-1.va.us.xda-developers.com
 dl-canary.discordapp.net
-dl-client.dropbox.com
 dl-count.xposed.info
 dl-desktop-apps.sonymobile.com
 dl-desktop-xcapps.sonymobile.com
@@ -3145,7 +3127,6 @@ dl.xda-developers.com
 dl.xposed.info
 dl2.files.xiaomi.net
 dl2.soft98.ir
-dlc-shim.trafficmanager.net
 dldir.xiaomi.net
 dldir1.qq.com
 dlglobal.qq.com
@@ -3201,7 +3182,6 @@ donorschoose.org
 dot.gov
 dot.tk
 dotcomsecrets.com
-dotnet.microsoft.com
 doubanio.com
 down.boomkat.com
 down.local.sec.samsung.com
@@ -3244,7 +3224,6 @@ downloads.oneplus.com
 downloads.techrepublic.com
 doyoudo.com
 dp.blog.naver.com
-dp.msnmessenger.akadns.com
 dp8hsntg6do36.cloudfront.net
 dpimg.ospserver.net
 dpm.demdex.net
@@ -3258,7 +3237,6 @@ drive.google.com
 drive.mobisystems.com
 driveapi.micloud.xiaomi.net
 dropbox.com
-dropbox.comdl.dropbox.com
 dropboxstatic.com
 dropboxusercontent.com
 dropcatch.com
@@ -3352,7 +3330,6 @@ ecomm.mpay.samsung.com
 ecomm.pre.mpay.samsung.com
 ecomm.stg.mpay.samsung.com
 economist.com
-ecx.images-amazon.com
 ed.gov
 ed.rdtcdn.com
 edge-chat.facebook.com
@@ -4446,7 +4423,6 @@ gs.apple.com
 gs.statcounter.com
 gs.wixapps.net
 gs2.ww.prod.dl.playstation.net
-gslb.spotify.com
 gsmarena.com
 gsp0.baidu.com
 gsp1.apple.com
@@ -4714,7 +4690,6 @@ i.reddit.com
 i.s-microsoft.com
 i.scdn.co
 i.snap.com
-i.vgy.me
 i.viafoura.co
 i.x.sndcdn.com
 i.xiaomi.com
@@ -4730,13 +4705,9 @@ i2.com
 i2.feedspot.com
 i2.sndcdn.com
 i2.wp.com
-i2.ytimg.com
 i3.feedspot.com
 i3.sndcdn.com
-i3.wp.com
-i3.ytimg.com
 i4.sndcdn.com
-i4.ytimg.com
 i9.ytimg.com
 ia601203.us.archive.org
 ia801005.us.archive.org
@@ -4864,7 +4835,6 @@ images.deliveryhero.io
 images.discordapp.net
 images.dmca.com
 images.fotmob.com
-images.google.com
 images.gotinder.com
 images.gounlimited.to
 images.hepsiburada.net
@@ -5410,9 +5380,7 @@ lcs.naver.com
 lds.org
 leadpages.co
 leanplum.com
-learn-public.trafficmanager.net
 learn.elephantjournal.com
-learn.microsoft.com
 learndownload.adobe.com
 legal.medium.com
 legal.qualcomm.com
@@ -5934,7 +5902,6 @@ maplestory.nexon.game.naver.com
 mapquest.com
 maps.google.com
 maps.googleapis.com
-maps.gstatic.com
 maps.here.com
 maps.locationiq.com
 maps.ok.ru
@@ -5994,6 +5961,7 @@ media-1.breitbart.com
 media-amazon.com
 media-cdn.twitch.tv
 media-direct.cdn.viber.com
+media-lab.ai
 media-lax1.inq.com
 media-origin-na.ssl-images-amazon.com
 media.api.aws.viber.com
@@ -6068,7 +6036,6 @@ meshop.qualcomm.com
 message.bithumb.com
 message.diigo.com
 messenger.com
-messenger.hotmail.com
 messenger.live.com
 messenger.msn.com
 messenger.yahoo.com
@@ -6267,7 +6234,6 @@ msftconnecttest.com
 msftncsi.com
 msg.edit.yahoo.com
 msg.netflix.com
-msg.yahoo.com
 msg2.client.xunlei.com
 msh.amazon.com
 msn.com
@@ -6348,7 +6314,6 @@ myxperia.sonymobile.com
 myètherwället.com
 mzstatic.com
 mÿethèrwallét.com
-n.edge2.salesforce.com
 n2s.us
 n6.net
 na1.documents.adobe.com
@@ -6396,7 +6361,6 @@ nbci.snap.com
 nbcnews.com
 nbcnewyork.com
 nbigfile.mail.naver.com
-nccp.netflix.com
 nctx.arcticapi.com
 ncu.ca
 ndrive.naver.com
@@ -6830,7 +6794,6 @@ ox-i.dailycaller.com
 ox.ac.uk
 oxfordjournals.org
 p-store.rakuten.co.jp
-p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
 p.typekit.net
@@ -7015,7 +6978,6 @@ pkg.adfinis-sygroup.ch
 pki.kaspersky.com
 pki.qualcomm.com
 pkobp.pl
-pl-pl.facebook.com
 pl.gravatar.com
 pl.hide.me
 pl.ign.com
@@ -7549,7 +7511,6 @@ rptrcks.walmart.com
 rs.playstation.com
 rs6.net
 rsci.app.link
-rsi.hotmail.com
 rsload.net
 rss.art19.com
 rss.blog.naver.com
@@ -7664,7 +7625,6 @@ s3.vuukle.com
 s4.symcb.com
 s5.symcb.com
 s9.picofile.com
-sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
@@ -7763,7 +7723,6 @@ scorito.com
 screenshots.firefox.com
 scribd.com
 scribol.com
-script.google.com
 scripts.ign.com
 scripts.pay.bka.sh
 scs.huawei.com
@@ -7870,7 +7829,6 @@ secure.vimeo.com
 secure.winred.com
 secured.netflix.com
 securehomes.esat.kuleuven.be
-secureir.ebaystatic.com
 secureitcup.kaspersky.com
 securel.longtailvideo.com
 securelist.com
@@ -8123,8 +8081,6 @@ sofe.ebay.com
 soft98.ir
 softonic.com
 software-download.microsoft.com
-software.download.prss.microsoft.com
-software.download.prss.trafficmanager.net
 software.naver.com
 software.sonymobile.com
 sogou.com
@@ -8214,7 +8170,6 @@ springer.com
 sproutsocial.com
 sq.com
 sq.gravatar.com
-sqm.microsoft.com
 sqs.us-east-1.amazonaws.com
 squarespace.com
 sr.gravatar.com
@@ -8310,7 +8265,6 @@ static.360buyimg.com
 static.actionbutton.co
 static.ada.support
 static.ak.connect.facebook.com
-static.ak.facebook.com
 static.akacdn.ru
 static.analytics.openapi.naver.com
 static.appsumo.com
@@ -8642,6 +8596,7 @@ t2.market.mi-img.com
 ta.wikipedia.com
 taboola.com
 tac.blog.naver.com
+tag.aticdn.net
 tag.blog.naver.com
 tag.partner.mairdumont.com
 tags.bkrtx.com
@@ -8651,7 +8606,6 @@ talk.l.google.com
 talk.sonymobile.com
 talkgadget.google.com
 talkingdata.com
-talks.l.google.com
 talkx.l.google.com
 tampa.cbslocal.com
 tampermonkey.net
@@ -8869,7 +8823,6 @@ traffic.libsyn.com
 traffic.spot.im
 trafficdeposit.com
 trafficrouter.io
-trailers.apple.com
 trakt.tv
 transact.playstation.com
 transfer.sh
@@ -9031,7 +8984,6 @@ uob.sc.omtrdc.net
 uol.com.br
 uongjowo.gravatar.com
 up.blog.naver.com
-up.top4top.net
 upchk.api.playstation.com
 update-nl.huawei.com
 update.avlyun.sec.miui.com
@@ -9185,7 +9137,6 @@ v.daum.net
 v.firebog.net
 v.pinimg.com
 v.shopify.com
-v0.wordpress.com
 v1.spot.im
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
@@ -9209,12 +9160,10 @@ variety.com
 vas.samsungapps.com
 vaultmedia.ign.com
 vc.ru
-vc.yahoo.com
 vcrypt.net
 velaro.com
 vendorlist.consensu.org
 verify.authorize.net
-verify.salesforce.com
 verisign.com
 verizonwireless.com
 version.hybrid.api.here.com
@@ -9223,7 +9172,6 @@ vesta.web.telegram.org
 veta.naver.com
 veteranstoday.com
 vgfiles.nabstudio.com
-vgy.me
 vi-vn.about.flipboard.com
 vi.gravatar.com
 vi.wikipedia.com
@@ -9357,7 +9305,6 @@ vulcan.xbox.com
 vultr.com
 vulture.com
 vupload2.facebook.com
-vupload2.t.facebook.com
 vuukle.com
 vvvvid.it
 vwdservices.com
@@ -9456,7 +9403,6 @@ webapp.browser.miui.com
 webapps.entrance.sonymobile.com
 webappstatic.buzzfeed.com
 webcache.googleusercontent.com
-webcam.yahoo.com
 webcollage.net
 webdisk.sitcomsonline.com
 webgrab.wechat.com
@@ -10969,7 +10915,6 @@ www.zoho.com
 www.zona.media
 www1.2giga.link
 www1.huawei.com
-www12.0zz0.com
 www17.wixdns.net
 www2.2giga.link
 www2.coinbase.com
@@ -10982,7 +10927,6 @@ www5.2giga.link
 www6.2giga.link
 www6.9Anime.to
 www7.2giga.link
-www8.0zz0.com
 www8.9Anime.to
 wwwimages.adobe.com
 wwwimages2.adobe.com
@@ -11102,7 +11046,6 @@ yunjiasu-cdn.net
 yuque.com
 yurl.in
 yz2.xmss.micloud.mi.com
-z-ecx.images-amazon.com
 z-m.c10r.facebook.com
 z-m.facebook.com
 z-p4-graph.facebook.com
