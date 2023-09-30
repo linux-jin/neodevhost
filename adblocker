@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2023-09-29
+# Last update: 2023-09-30
 #
-# Number of blocked domains:  136686
+# Number of blocked domains:  136685
 #
 #=====================================
 ||0.nextyourcontent.com^
@@ -21508,7 +21508,7 @@
 ||cooperative.gb.net^
 ||cooperativeincident.info^
 ||coordinatedcub.com^
-||coordinator-Production-28516768.us-east-1.elb.amazonaws.com^
+||coordinator-production-28516768.us-east-1.elb.amazonaws.com^
 ||coordino.com^
 ||cootlogix.com^
 ||coowapa.tk^
@@ -48232,7 +48232,6 @@
 ||mirskol.host^
 ||mirtexm.com^
 ||mirvaz.com^
-||mis.migc.xiaomi.comfile.m^
 ||misakela.site^
 ||misanoassicurazioni.it^
 ||misbeseeming.xyz^
