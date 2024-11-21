@@ -11,9 +11,9 @@
 [![license](https://img.shields.io/github/license/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/blob/master/LICENSE)<br/>
 
 ```
-Total ad / tracking block list 屏蔽追踪广告总数: 122864
+Total ad / tracking block list 屏蔽追踪广告总数: 122862
 
-Total allowlist list 允许名单总数: 10034
+Total allowlist list 允许名单总数: 10035
 
 Total combine list 结合总数： 122439
 
@@ -21,7 +21,7 @@ Total deadblock list 失效屏蔽广告域名： 25471
 
 Total deadallow list 失效允许广告域名： 1111
 
-Update 更新时间: 2024-11-20
+Update 更新时间: 2024-11-21
 ```
 ### UPTODATE 保持最新<br/>
     Merge every day　每天更新
