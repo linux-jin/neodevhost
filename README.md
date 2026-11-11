@@ -17,11 +17,11 @@ Total allowlist list 允许名单总数: 9978
 
 Total combine list 结合总数： 78936
 
-Total deadblock list 失效屏蔽广告域名： 5353
+Total deadblock list 失效屏蔽广告域名： 31829
 
 Total deadallow list 失效允许广告域名： 1111
 
-Update 更新时间: 2026-11-10
+Update 更新时间: 2026-11-11
 ```
 ### UPTODATE 保持最新<br/>
     Merge every day　每天更新
@@ -63,7 +63,7 @@ Domain | Domain |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/m
 
 ### Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
-Number of Domain 域名数目： 78858
+Number of Domain 域名数目： 77120
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
